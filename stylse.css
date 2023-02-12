@@ -1,0 +1,459 @@
+.portal{
+    position: absolute;
+    width: 1512px;
+    height: 982px;
+    left: 170px;
+    top: 70px;
+
+    background: #121212;
+}
+
+.Garden{ 
+    position: absolute;
+    width: 505px;
+    height: 125px;
+    left: 88px;
+    top: 27px;
+
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+
+    color: #E1E1E1;
+}
+
+.cryg{
+    box-sizing: border-box;
+    position: absolute;
+    width: 74px;
+    height: 56px;
+    left: 31px;
+    top: 45px;
+    background: url(086a24dca9c6a0b73bef6bee65cf0a1e-removebg-preview.png);
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.home{
+    position: absolute;
+    width: 229px;
+    height: 83px;
+    left: 610px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: #E1E1E1;
+}
+
+.Shop{
+    position: absolute;
+    width: 230px;
+    height: 83px;
+    left: 719px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: #E1E1E1;
+}
+
+.Best_Seller{
+    position: absolute;
+    width: 230px;
+    height: 83px;
+    left: 826px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: #E1E1E1;
+}
+
+.Guide{
+    position: absolute;
+    width: 229px;
+    height: 83px;
+    left: 984px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: #E1E1E1;
+}
+
+.Blog{
+    position: absolute;
+    width: 229px;
+    height: 83px;
+    left: 1115px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: #E1E1E1;
+}
+
+.Contact{ 
+    position: absolute;
+    width: 62px;
+    height: 22px;
+    left: 1228px;
+    top: 45px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #E1E1E1;
+}
+
+.shops{
+    position: absolute;
+    left: 87.5%;
+    right: 11.24%;
+    top: 60px;
+    bottom: 94.2%;
+    border: 2px solid #E1E1E1;
+}
+
+.PERFECT{
+    position: absolute;
+    width: 321px;
+    height: 115px;
+    left: 185px;
+    top: 198px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+
+.Sweet{
+    position: absolute;
+    width: 340px;
+    height: 124px;
+    left: 185px;
+    top: 220px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+
+.Online{
+    position: absolute;
+    width: 918px;
+    height: 32px;
+    left: 185px;
+    top: 400px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
+
+.knopka{
+    position: absolute;
+    width: 102px;
+    height: 29px;
+    left: 170px;
+    top: 440px;
+    background: #F868DE;
+    border-radius: 29px;
+}
+
+.download{
+    position: absolute;
+    width: 551px;
+    height: 13px;
+    left: 18px;
+    top: -3px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.knopka2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 102px;
+    height: 29px;
+    left: 302px;
+    top: 440px;
+    background: #121212;
+    border: 1px solid #FFFFFF;
+    border-radius: 29px;
+}
+
+.boat{
+    position: absolute;
+    width: 551px;
+    height: 13px;
+    left: 18px;
+    top: -3px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.shadow{
+    position: absolute;
+    width: 528px;
+    height: 241px;
+    left: 940px;
+    top: 165px;
+    background: url(.png);
+    opacity: 0.7;
+}
+
+.group{
+    position: absolute;
+    width: 107.76px;
+    height: 108.11px;
+    left: 950.99px;
+    top: 350px;
+    transform: rotate(-173.17deg);
+}
+
+.main2{
+    position: absolute;
+    width: 151px;
+    height: 199px;
+    left: 1300px;
+    top: 296px;
+    background: url(.png);
+}
+
+.main3{
+    position: absolute;
+    width: 110px;
+    height: 98px;
+    left: 1250px;
+    top: 368px;
+    background: url(.png);
+}
+
+.star{
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    left: 1127px;
+    top: 139.23px;
+}
+
+.star2{
+    position: absolute;
+    width: 30px;
+    height: 28px;
+    left: 917px;
+    top: 151px;
+}
+
+.star3{
+    position: absolute;
+    width: 41px;
+    height: 39px;
+    left: 864px;
+    top: 307px;
+}
+
+.star4{
+    position: absolute;
+    width: 30px;
+    height: 28px;
+    left: 1296px;
+    top: 219px;
+}
+
+.star5{
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    left: 1062px;
+    top: 466px;
+}
+
+.BEST_SELLERS{
+    position: absolute;
+    width: 918px;
+    height: 26px;
+    left: 198px;
+    top: 578px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #E1E1E1;
+}
+
+.View_All{
+    position: absolute;
+    width: 918px;
+    height: 42px;
+    left: 1138px;
+    top: 581px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-decoration-line: underline;
+    color: #E1E1E1;
+}
+
+.tovar{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 210px;
+    top: 635px;
+    background: url(8fdfcb89c648abef768d49a289bc71db.jpg);
+    filter: drop-shadow(3px 10px 27px rgba(0, 0, 0, 0.35));
+}
+
+.tovar2{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 427px;
+    top: 635px;
+    background: url(d8d357e729db8d1bcf094e2baf33c446.jpg);
+    filter: drop-shadow(3px 10px 27px rgba(0, 0, 0, 0.35));
+}
+
+.tovar3{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 644px;
+    top: 635px;
+    background: url(150297987f0b0927634fc62d1faf526a.jpg);
+    filter: drop-shadow(3px 10px 27px rgba(0, 0, 0, 0.35));
+}
+
+.tovar4{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 861px;
+    top: 635px;
+    background: url(80f9bcb4010c3d34ecf6b8c7c81fccea.jpg);
+    filter: drop-shadow(3px 10px 27px rgba(0, 0, 0, 0.35));
+}
+
+.tovar5{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 1078px;
+    top: 635px;
+    background: url(9ddb338db0e534754a68951817e6a36b.jpg);
+    filter: drop-shadow(3px 10px 27px rgba(0, 0, 0, 0.35));
+}
+
+.Peace_Lily{
+    position: absolute;
+    width: 918px;
+    height: 16px;
+    left: 265px;
+    top: 800px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
+
+.Roses{
+    position: absolute;
+    width: 918px;
+    height: 16px;
+    left: 498px;
+    top: 800px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
+
+.Prayer_Plant{
+    position: absolute;
+    width: 918px;
+    height: 16px;
+    left: 703px;
+    top: 800px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
+
+.Snake_Plant{
+    position: absolute;
+    width: 918px;
+    height: 16px;
+    left: 921px;
+    top: 800px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
+
+.Calla_Lily{
+    position: absolute;
+    width: 918px;
+    height: 16px;
+    left: 1147px;
+    top: 800px;
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #E1E1E1;
+}
